@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = NCWallCustomizer;
+	cell = PSLinkCell;
+	detail = NCWallCustomizerListController;
+	icon = NCWallCustomizer.png;
+	isController = 1;
+	label = NCWallCustomizer;
+    };
+}
